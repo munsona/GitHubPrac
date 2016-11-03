@@ -1,6 +1,6 @@
 ##ui.R
 fluidPage( 
-  includeMarkdown("Title.Rmd"), 
+  includeMarkdown("MC Maurer is D0p3 AF"), 
   titlePanel("", windowTitle = "my App"), 
   br(), 
   br(), 
